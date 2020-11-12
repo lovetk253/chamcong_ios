@@ -34,17 +34,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		CB19C69A255D2A6900E41600 /* chamcong.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = chamcong.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CB19C69A255D2A6900E41600 /* TSG Chấm Công.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "TSG Chấm Công.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB19C69D255D2A6900E41600 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CB19C69F255D2A6900E41600 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		CB19C6A2255D2A6900E41600 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		CB19C6A4255D2A6900E41600 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CB19C6A7255D2A6900E41600 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CB19C6A9255D2A6900E41600 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CB19C6AE255D2A6A00E41600 /* chamcongTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = chamcongTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CB19C6AE255D2A6A00E41600 /* TSG Chấm CôngTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "TSG Chấm CôngTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB19C6B2255D2A6A00E41600 /* chamcongTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = chamcongTests.swift; sourceTree = "<group>"; };
 		CB19C6B4255D2A6A00E41600 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CB19C6B9255D2A6A00E41600 /* chamcongUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = chamcongUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CB19C6B9255D2A6A00E41600 /* TSG Chấm CôngUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "TSG Chấm CôngUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB19C6BD255D2A6A00E41600 /* chamcongUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = chamcongUITests.swift; sourceTree = "<group>"; };
 		CB19C6BF255D2A6A00E41600 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -87,9 +87,9 @@
 		CB19C69B255D2A6900E41600 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				CB19C69A255D2A6900E41600 /* chamcong.app */,
-				CB19C6AE255D2A6A00E41600 /* chamcongTests.xctest */,
-				CB19C6B9255D2A6A00E41600 /* chamcongUITests.xctest */,
+				CB19C69A255D2A6900E41600 /* TSG Chấm Công.app */,
+				CB19C6AE255D2A6A00E41600 /* TSG Chấm CôngTests.xctest */,
+				CB19C6B9255D2A6A00E41600 /* TSG Chấm CôngUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -128,9 +128,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		CB19C699255D2A6800E41600 /* chamcong */ = {
+		CB19C699255D2A6800E41600 /* TSG Chấm Công */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CB19C6C2255D2A6A00E41600 /* Build configuration list for PBXNativeTarget "chamcong" */;
+			buildConfigurationList = CB19C6C2255D2A6A00E41600 /* Build configuration list for PBXNativeTarget "TSG Chấm Công" */;
 			buildPhases = (
 				CB19C696255D2A6800E41600 /* Sources */,
 				CB19C697255D2A6800E41600 /* Frameworks */,
@@ -140,14 +140,14 @@
 			);
 			dependencies = (
 			);
-			name = chamcong;
+			name = "TSG Chấm Công";
 			productName = chamcong;
-			productReference = CB19C69A255D2A6900E41600 /* chamcong.app */;
+			productReference = CB19C69A255D2A6900E41600 /* TSG Chấm Công.app */;
 			productType = "com.apple.product-type.application";
 		};
-		CB19C6AD255D2A6A00E41600 /* chamcongTests */ = {
+		CB19C6AD255D2A6A00E41600 /* TSG Chấm CôngTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CB19C6C5255D2A6A00E41600 /* Build configuration list for PBXNativeTarget "chamcongTests" */;
+			buildConfigurationList = CB19C6C5255D2A6A00E41600 /* Build configuration list for PBXNativeTarget "TSG Chấm CôngTests" */;
 			buildPhases = (
 				CB19C6AA255D2A6A00E41600 /* Sources */,
 				CB19C6AB255D2A6A00E41600 /* Frameworks */,
@@ -158,14 +158,14 @@
 			dependencies = (
 				CB19C6B0255D2A6A00E41600 /* PBXTargetDependency */,
 			);
-			name = chamcongTests;
+			name = "TSG Chấm CôngTests";
 			productName = chamcongTests;
-			productReference = CB19C6AE255D2A6A00E41600 /* chamcongTests.xctest */;
+			productReference = CB19C6AE255D2A6A00E41600 /* TSG Chấm CôngTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		CB19C6B8255D2A6A00E41600 /* chamcongUITests */ = {
+		CB19C6B8255D2A6A00E41600 /* TSG Chấm CôngUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CB19C6C8255D2A6A00E41600 /* Build configuration list for PBXNativeTarget "chamcongUITests" */;
+			buildConfigurationList = CB19C6C8255D2A6A00E41600 /* Build configuration list for PBXNativeTarget "TSG Chấm CôngUITests" */;
 			buildPhases = (
 				CB19C6B5255D2A6A00E41600 /* Sources */,
 				CB19C6B6255D2A6A00E41600 /* Frameworks */,
@@ -176,9 +176,9 @@
 			dependencies = (
 				CB19C6BB255D2A6A00E41600 /* PBXTargetDependency */,
 			);
-			name = chamcongUITests;
+			name = "TSG Chấm CôngUITests";
 			productName = chamcongUITests;
-			productReference = CB19C6B9255D2A6A00E41600 /* chamcongUITests.xctest */;
+			productReference = CB19C6B9255D2A6A00E41600 /* TSG Chấm CôngUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					CB19C699255D2A6800E41600 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = R6B288VN45;
 						ProvisioningStyle = Automatic;
 					};
 					CB19C6AD255D2A6A00E41600 = {
@@ -207,7 +208,7 @@
 					};
 				};
 			};
-			buildConfigurationList = CB19C695255D2A6800E41600 /* Build configuration list for PBXProject "chamcong" */;
+			buildConfigurationList = CB19C695255D2A6800E41600 /* Build configuration list for PBXProject "TSG Chấm Công" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -220,9 +221,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				CB19C699255D2A6800E41600 /* chamcong */,
-				CB19C6AD255D2A6A00E41600 /* chamcongTests */,
-				CB19C6B8255D2A6A00E41600 /* chamcongUITests */,
+				CB19C699255D2A6800E41600 /* TSG Chấm Công */,
+				CB19C6AD255D2A6A00E41600 /* TSG Chấm CôngTests */,
+				CB19C6B8255D2A6A00E41600 /* TSG Chấm CôngUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -285,12 +286,12 @@
 /* Begin PBXTargetDependency section */
 		CB19C6B0255D2A6A00E41600 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = CB19C699255D2A6800E41600 /* chamcong */;
+			target = CB19C699255D2A6800E41600 /* TSG Chấm Công */;
 			targetProxy = CB19C6AF255D2A6A00E41600 /* PBXContainerItemProxy */;
 		};
 		CB19C6BB255D2A6A00E41600 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = CB19C699255D2A6800E41600 /* chamcong */;
+			target = CB19C699255D2A6800E41600 /* TSG Chấm Công */;
 			targetProxy = CB19C6BA255D2A6A00E41600 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -412,6 +413,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = R6B288VN45;
 				INFOPLIST_FILE = chamcong/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = tsg.npnguyen.chamcong;
@@ -424,6 +426,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = R6B288VN45;
 				INFOPLIST_FILE = chamcong/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = tsg.npnguyen.chamcong;
@@ -442,7 +445,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = tsg.npnguyen.chamcongTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/chamcong.app/chamcong";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TSG Chấm Công.app/TSG Chấm Công";
 			};
 			name = Debug;
 		};
@@ -456,7 +459,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = tsg.npnguyen.chamcongTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/chamcong.app/chamcong";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TSG Chấm Công.app/TSG Chấm Công";
 			};
 			name = Release;
 		};
@@ -489,7 +492,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		CB19C695255D2A6800E41600 /* Build configuration list for PBXProject "chamcong" */ = {
+		CB19C695255D2A6800E41600 /* Build configuration list for PBXProject "TSG Chấm Công" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CB19C6C0255D2A6A00E41600 /* Debug */,
@@ -498,29 +501,32 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CB19C6C2255D2A6A00E41600 /* Build configuration list for PBXNativeTarget "chamcong" */ = {
+		CB19C6C2255D2A6A00E41600 /* Build configuration list for PBXNativeTarget "TSG Chấm Công" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CB19C6C3255D2A6A00E41600 /* Debug */,
 				CB19C6C4255D2A6A00E41600 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		CB19C6C5255D2A6A00E41600 /* Build configuration list for PBXNativeTarget "chamcongTests" */ = {
+		CB19C6C5255D2A6A00E41600 /* Build configuration list for PBXNativeTarget "TSG Chấm CôngTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CB19C6C6255D2A6A00E41600 /* Debug */,
 				CB19C6C7255D2A6A00E41600 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		CB19C6C8255D2A6A00E41600 /* Build configuration list for PBXNativeTarget "chamcongUITests" */ = {
+		CB19C6C8255D2A6A00E41600 /* Build configuration list for PBXNativeTarget "TSG Chấm CôngUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CB19C6C9255D2A6A00E41600 /* Debug */,
 				CB19C6CA255D2A6A00E41600 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

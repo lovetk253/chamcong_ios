@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CB19C699255D2A6800E41600"
-               BuildableName = "chamcong.app"
-               BlueprintName = "chamcong"
-               ReferencedContainer = "container:chamcong.xcodeproj">
+               BuildableName = "TSG Cha&#x302;&#x301;m Co&#x302;ng.app"
+               BlueprintName = "TSG Cha&#x302;&#x301;m Co&#x302;ng"
+               ReferencedContainer = "container:TSG Cha&#x302;&#x301;m Co&#x302;ng.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CB19C6AD255D2A6A00E41600"
-               BuildableName = "chamcongTests.xctest"
-               BlueprintName = "chamcongTests"
-               ReferencedContainer = "container:chamcong.xcodeproj">
+               BuildableName = "TSG Cha&#x302;&#x301;m Co&#x302;ngTests.xctest"
+               BlueprintName = "TSG Cha&#x302;&#x301;m Co&#x302;ngTests"
+               ReferencedContainer = "container:TSG Cha&#x302;&#x301;m Co&#x302;ng.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CB19C6B8255D2A6A00E41600"
-               BuildableName = "chamcongUITests.xctest"
-               BlueprintName = "chamcongUITests"
-               ReferencedContainer = "container:chamcong.xcodeproj">
+               BuildableName = "TSG Cha&#x302;&#x301;m Co&#x302;ngUITests.xctest"
+               BlueprintName = "TSG Cha&#x302;&#x301;m Co&#x302;ngUITests"
+               ReferencedContainer = "container:TSG Cha&#x302;&#x301;m Co&#x302;ng.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CB19C699255D2A6800E41600"
-            BuildableName = "chamcong.app"
-            BlueprintName = "chamcong"
-            ReferencedContainer = "container:chamcong.xcodeproj">
+            BuildableName = "TSG Cha&#x302;&#x301;m Co&#x302;ng.app"
+            BlueprintName = "TSG Cha&#x302;&#x301;m Co&#x302;ng"
+            ReferencedContainer = "container:TSG Cha&#x302;&#x301;m Co&#x302;ng.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CB19C699255D2A6800E41600"
-            BuildableName = "chamcong.app"
-            BlueprintName = "chamcong"
-            ReferencedContainer = "container:chamcong.xcodeproj">
+            BuildableName = "TSG Cha&#x302;&#x301;m Co&#x302;ng.app"
+            BlueprintName = "TSG Cha&#x302;&#x301;m Co&#x302;ng"
+            ReferencedContainer = "container:TSG Cha&#x302;&#x301;m Co&#x302;ng.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CB19C699255D2A6800E41600"
-            BuildableName = "chamcong.app"
-            BlueprintName = "chamcong"
-            ReferencedContainer = "container:chamcong.xcodeproj">
+            BuildableName = "TSG Cha&#x302;&#x301;m Co&#x302;ng.app"
+            BlueprintName = "TSG Cha&#x302;&#x301;m Co&#x302;ng"
+            ReferencedContainer = "container:TSG Cha&#x302;&#x301;m Co&#x302;ng.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
